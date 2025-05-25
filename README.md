@@ -11,8 +11,7 @@ This project is part of my internship at **Prodigy Infotech**, focused on Data S
 ## 📁 Files Included
 
 - `Prodigy_Infotech_Task_1.ipynb` – Jupyter Notebook containing the full data visualization pipeline.
-- `prodigy_infotech_task_1.py` – Python script version of the notebook.
-- `API_SP.POP.TOTL_DS2_en_csv_v2_131993.csv` – Dataset downloaded from the World Bank.
+- `World Population Data.csv` – Dataset downloaded from the World Bank.
 
 ## 📊 Visualizations Performed
 
